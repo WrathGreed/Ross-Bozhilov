@@ -1,0 +1,46 @@
+.list {
+    color: red; 
+    text-transform: uppercase;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.blue {
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.green {
+    color: green;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+h1 {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.italic {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.spans {
+    text-decoration: underline;
+    color: red;
+}
+
+.like {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
