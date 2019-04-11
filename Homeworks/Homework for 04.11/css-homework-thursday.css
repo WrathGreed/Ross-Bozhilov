@@ -1,0 +1,143 @@
+
+.list {
+    color: red; 
+    text-transform: uppercase;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.blue {
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.green {
+    color: green;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+h1 {
+    color: red;
+    margin-left: 450px;
+}
+
+h2 {
+    margin-left: 450px;
+}
+
+.date {
+    margin-left: 450px;
+}
+
+.bold {
+    margin-left: 450px;
+    font-weight: bold;
+    font-size: 17px;
+    max-width: 1000px;
+}
+
+.italic {
+    margin-left: 450px;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.bonus-text {
+    margin-left: 450px;
+    max-width: 1000px;
+}
+
+.netflix {
+    max-width: 1000px;
+    margin-left: 450px;
+}
+.spans {
+    text-decoration: underline;
+    color: red;
+}
+
+.like {
+    position: fixed;
+    margin: 10px;
+    top: 50px;
+    right: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-bar {
+    background: red;
+    margin: 50px 450px 50px 450px;
+    height: 50px;
+}
+
+.span1 {
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 50px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.span2 {
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 50px;
+    text-transform: uppercase;
+}
+
+.span3 {
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 50px;
+    text-transform: uppercase;
+}
+
+.span4 {
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 50px;
+    text-transform: uppercase;
+}
+
+.span5 {
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 50px;
+    text-transform: uppercase;
+}
+
+.span6 {
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 50px;
+    text-transform: uppercase;
+}
+
+.span7 {
+    color: white;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 50px;
+    text-transform: uppercase;
+}
+
+.image {
+    margin: 0px 600px;
+}
+
+.etiquettes {
+    margin-left: 450px;
+}
