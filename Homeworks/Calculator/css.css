@@ -1,0 +1,41 @@
+* { box-sizing: border-box; } 
+
+.flexBoxContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 15%;
+}
+
+.calculator {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+
+.calculator .keys {
+    text-align: center;
+    background: black;
+    color: white;
+    border: gray 3px solid;
+    height: 50px;
+    width: 25%;
+    break-inside: avoid;
+}
+
+.calculator input {
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 100%;
+}
+
+/* Центрирай цифрите */
+.button > div {
+    height: 100%px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
